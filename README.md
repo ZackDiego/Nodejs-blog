@@ -1,16 +1,13 @@
 # Nodejs-blog: Markdown Blog Website
 ## Project created following tutorial from [Web Dev Simplified](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=1514s)
 
-
-Using NodeJS, Express, And MongoDB
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple blog website mainly created with NodeJS and Express.
 	
 ## Main Technologies
 Project is created with:
