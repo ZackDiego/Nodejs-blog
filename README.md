@@ -51,16 +51,6 @@ The folder structure of this app is explained below:
 ## URL Paths
 The application running on `localhost:3000`, url paths as below:
 
-| Path           | Description                        |
-| -------------- | ---------------------------------- |
-| `/`        | Homepage of the blog.       |
-| `/about`       | About us page.                     |
-| `/contact`     | Contact us page.                   |
-| `/articles/new`    | Path for creating a new blog post. |
-| `/blog/:id`    | Path for viewing a specific blog post identified by its ID. |
-
-### Articles RESTful API Paths
-
 | Route          | Description                                           |
 |-----------------|-------------------------------------------------------|
 | `/`        | Homepage of the blog.       |
