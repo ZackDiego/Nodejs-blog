@@ -28,15 +28,6 @@ $ npm install
 $ npm run devStart
 ```
 
-  Navigate to `http://localhost:8001`
-
-- API Document endpoints
-
-  swagger Spec Endpoint : http://localhost:8001/api-docs 
-
-  swagger-ui  Endpoint : http://localhost:8001/docs 
-
-
 ## Project Structure
 The folder structure of this app is explained below:
 
