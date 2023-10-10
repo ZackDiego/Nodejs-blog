@@ -3,8 +3,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Main Technologies](#main-technologies)
+* [Pre-requisites](#pre-requisites)
 * [Setup](#setup)
+* [Project Structure](#project-structure)
+* [Url Paths](#url-paths)
 
 ## General info
 This project is simple blog website mainly created with NodeJS and Express.
